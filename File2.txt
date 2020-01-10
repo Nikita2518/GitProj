@@ -1,3 +1,6 @@
 Hi Hello!!
 feature1-login....
 feature2-logout
+bug1- fixed
+
+Bug 2- fixed
