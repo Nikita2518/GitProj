@@ -1,8 +1,14 @@
 File is created for cr1
 
 File 2 is updated for check on remote
+
 File change
 
-
-
 Chanhges from Local
+
+Change 1 ->  File 2 is updated for check on remote
+Change 2 -> File change
+
+Change 3 -> Test for rebase from local Master
+
+File 2 is updated for change3 to push changes to update from local
