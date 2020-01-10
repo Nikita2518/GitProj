@@ -1,3 +1,12 @@
 Hi Hello!!
+
 feature1-login updated by team member for checking 3 way
 feature2-logout
+
+feature1-login....
+feature2-logout
+bug1- fixed
+
+Bug 2- fixed
+
+
